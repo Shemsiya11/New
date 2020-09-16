@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Shemsiya_Abrar_SSIS_UberWriter"
   DTS:PackageType="5"
-  DTS:VersionBuild="244"
-  DTS:VersionGUID="{A48B2DAB-30FE-4985-B8BC-9933E4502832}">
+  DTS:VersionBuild="246"
+  DTS:VersionGUID="{6CFE058A-3092-484A-895D-B5EBA8403084}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -107,7 +107,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">9/16/2020 3:21:15 PM</DTS:VariableValue>
+        DTS:DataType="7">9/16/2020 3:27:41 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -191,7 +191,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/16/2020 3:21:15 PM</DTS:VariableValue>
+        DTS:DataType="7">9/16/2020 3:27:41 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -13491,7 +13491,6 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:refId="Package.EventHandlers[OnError]\Script Task"
           DTS:CreationName="Microsoft.ScriptTask"
           DTS:Description="Script Task"
-          DTS:Disabled="True"
           DTS:DTSID="{A63C98F2-E353-4F88-973B-7E7548DD07A9}"
           DTS:ExecutableType="Microsoft.ScriptTask"
           DTS:LocaleID="-1"
@@ -14217,7 +14216,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <NodeLayout
           Size="209.333333333334,42"
           Id="Package\Execute SQL Task_ETL_Log"
-          TopLeft="119.81770654791,267.249999999999" />
+          TopLeft="110.755206682952,289.249999999999" />
         <NodeLayout
           Size="253.333333333334,42"
           Id="Package\Execute SQL Task_MaxModofiedDate"
@@ -14284,26 +14283,26 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="21.4583329390733,26.8333333333323"
+              EndConnector="12.3958330741151,48.8333333333323"
               Start="0,0"
-              End="21.4583329390733,19.3333333333323">
+              End="12.3958330741151,41.3333333333323">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,9.41666666666613" />
+                    End="0,20.4166666666661" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,9.41666666666613"
-                    Point2="0,13.4166666666661"
-                    Point3="4,13.4166666666661" />
+                    Point1="0,20.4166666666661"
+                    Point2="0,24.4166666666661"
+                    Point3="4,24.4166666666661" />
                   <mssgle:LineSegment
-                    End="17.4583329390733,13.4166666666661" />
+                    End="8.3958330741151,24.4166666666661" />
                   <mssgle:CubicBezierSegment
-                    Point1="17.4583329390733,13.4166666666661"
-                    Point2="21.4583329390733,13.4166666666661"
-                    Point3="21.4583329390733,17.4166666666661" />
+                    Point1="8.3958330741151,24.4166666666661"
+                    Point2="12.3958330741151,24.4166666666661"
+                    Point3="12.3958330741151,28.4166666666661" />
                   <mssgle:LineSegment
-                    End="21.4583329390733,19.3333333333323" />
+                    End="12.3958330741151,41.3333333333323" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
