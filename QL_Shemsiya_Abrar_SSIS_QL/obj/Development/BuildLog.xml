@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Shemsiya_Abrar_SSIS_QL</Name>
-    <LastWriteTime>2020-09-19T21:05:41.2271264Z</LastWriteTime>
+    <LastWriteTime>2020-09-19T23:07:54.1970439Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_QuickenLoan.dtsx</Name>
-      <LastWriteTime>2020-09-19T21:26:42.991386Z</LastWriteTime>
+      <LastWriteTime>2020-09-19T23:30:10.176442Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
