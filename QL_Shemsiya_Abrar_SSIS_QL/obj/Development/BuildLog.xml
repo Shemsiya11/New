@@ -2,23 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Shemsiya_Abrar_SSIS_QL</Name>
-    <LastWriteTime>2020-09-15T23:39:42.2757256Z</LastWriteTime>
+    <LastWriteTime>2020-09-19T21:05:41.2271264Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_LendingQB.dtsx</Name>
-      <LastWriteTime>2020-09-14T01:34:38.9107653Z</LastWriteTime>
+      <LastWriteTime>2020-09-17T01:40:20.3560401Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_QuickenLoan.dtsx</Name>
-      <LastWriteTime>2020-09-16T18:58:57.6851922Z</LastWriteTime>
+      <LastWriteTime>2020-09-19T21:26:42.991386Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_UberWriter.dtsx</Name>
-      <LastWriteTime>2020-09-16T20:27:37.6403076Z</LastWriteTime>
+      <LastWriteTime>2020-09-17T02:11:35.4440508Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>

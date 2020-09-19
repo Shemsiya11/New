@@ -105,4 +105,47 @@
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
   </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="DunaDatabaseWindowsNetUberwriterUberWriter_Password">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{ea2293f0-19d8-4910-bbea-1c37a533c929}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">1</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value"
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAADh9jfCPXu+yhax98MhYux7wFe4uiBTSGp4vrnxJA8OyQAAAAAOgAAAAAIAACAAAACuxGXJAm76+cyFCki50HqQSR56wsCe6FZ8Cm1YwaSW/IAAAABAHxotZrEkv3BqvTVk0gMhOs0FsoOXAEq34Sd/fE8DRDlh1pROd+TYMuolZzbbZhhWmraw6/a0DtMg7AAwrY3MUN0tlSt03aGiP1bdIf5S0OzrtLgKDrnE23qzCVmTO/ccRAeEIKD/fpfprebbzXWkhlxYWY7hWZauBCmxQeU2gEAAAAA08CjWHkXC+tiCns7qmr4wmmSQiQEpSG/axo1IdRGfDksacZaZ2ygCZmAwaO5maHYrSVCagqR2CUfYDidXSI/M</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="FTPConnectionManager_ConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{d68dee59-080a-4a6e-b997-73be34d2c260}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value">ftp.drivehq.com:21</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
 </SSIS:Parameters>
