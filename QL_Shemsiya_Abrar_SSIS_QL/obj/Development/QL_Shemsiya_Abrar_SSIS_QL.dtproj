@@ -26,7 +26,7 @@
           <SSIS:Property SSIS:Name="CreatorComputerName">DESKTOP-MMVBRN0</SSIS:Property>
           <SSIS:Property SSIS:Name="Description">
           </SSIS:Property>
-          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAAA4ULnlYjMRYxKVElPJiotkVUqpGBHc1aHljd2WqrHt1wAAAAAOgAAAAAIAACAAAAC8Vs/dTvJMUue/64/xubK8qQab1Cc0vCTFEsv3x+hmTpAAAAA2GmIOAVJxNDXYt2sQAl7kLwdTaYkN7N9XMCS0sXWdbAZVxIHaHhMt/Ba9vjUH5oCdARNam0bPiQFMwNqr6E4i4PB8lNQeME4G4/aY+HVqCmrQoFNfKYE4duD/pyEbDqBl3V2HVU+8HqJnLNDJmXBIdpULPRiifx5jrFMym7Z5PguC4hvZXEMk9b43Km91W9NAAAAAVpIUJqR9ssOo7Qmi1Ys3MN5EctQBBRWp9AP005d1Fry/58RCNh4BqmaD7WSUQieoiVXI5AdqTk1TBz1ruSlIXQ==</SSIS:Property>
+          <SSIS:Property SSIS:Name="PasswordVerifier" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAABnSqPpmy7cnkrV273F8lUz4bSneWtRYXFVb4CnMrbUrgAAAAAOgAAAAAIAACAAAADA4rmWJN4BbCOfTt7VxC48QtSIY4RBU0UcRjprWfTDvJAAAABc+JROHp8XPfRgEJBMHI6onAdLcBhykPv0k4zxzPIovJau+/ZZSB9slp0R2jP0FrqmtYoi+w+X4GgKR6MSn7++ASZ0k0iPE/OA8nVvzjSPt0YG6GtMhT3bjJw+xuVq0JRiCUZpy+YPWc0dp+hHCpyIddMXYlcFNznrbeTvKbwyLlGIsaiubo8/sP5jFQrnr2RAAAAAQhhnH5u2aAKbz9VnqefS4EfGNUHUJLn/OSUHAn3b090SwehhYtsP2LffJdkUwScvDoYPzg9Vs1NwrfmISf04Jg==</SSIS:Property>
           <SSIS:Property SSIS:Name="FormatVersion">1</SSIS:Property>
         </SSIS:Properties>
         <SSIS:Packages>
@@ -40,6 +40,7 @@
           <SSIS:ConnectionManager SSIS:Name="Duna.database.windows.net.Uberwriter.UberWriter.conmgr" />
           <SSIS:ConnectionManager SSIS:Name="DESKTOP-MMVBRN0.QLSSISLOG 1.conmgr" />
           <SSIS:ConnectionManager SSIS:Name="FTP Connection Manager.conmgr" />
+          <SSIS:ConnectionManager SSIS:Name="DESKTOP-MMVBRN0.STGQL 1.conmgr" />
         </SSIS:ConnectionManagers>
         <SSIS:DeploymentInfo>
           <SSIS:ProjectConnectionParameters>
@@ -807,6 +808,109 @@
                 <SSIS:Property SSIS:Name="DataType">3</SSIS:Property>
               </SSIS:Properties>
             </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.ConnectByProxy">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">false</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">3</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.ConnectUsingManagedIdentity">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">false</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">3</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.InitialCatalog">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">STGQL</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.Password">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">1</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.RetainSameConnection">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">false</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">3</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.ServerName">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Value">DESKTOP-MMVBRN0</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
+            <SSIS:Parameter SSIS:Name="CM.DESKTOP-MMVBRN0.STGQL 1.UserName">
+              <SSIS:Properties>
+                <SSIS:Property SSIS:Name="ID">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="CreationName">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="Description">
+                </SSIS:Property>
+                <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
+              </SSIS:Properties>
+            </SSIS:Parameter>
           </SSIS:ProjectConnectionParameters>
           <SSIS:PackageInfo>
             <SSIS:PackageMetaData SSIS:Name="Pkg_Shemsiya_Abrar_SSIS_LendingQB.dtsx">
@@ -1263,16 +1367,30 @@
                 <SSIS:Property SSIS:Name="Name">Pkg_Shemsiya_Abrar_SSIS_QuickenLoan</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMajor">1</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionMinor">0</SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionBuild">350</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionBuild">357</SSIS:Property>
                 <SSIS:Property SSIS:Name="VersionComments">
                 </SSIS:Property>
-                <SSIS:Property SSIS:Name="VersionGUID">{9102D508-21CE-42B9-8765-EB8C8BA953EE}</SSIS:Property>
+                <SSIS:Property SSIS:Name="VersionGUID">{5D627C28-32B6-4A1C-A982-A287943F5915}</SSIS:Property>
                 <SSIS:Property SSIS:Name="PackageFormatVersion">8</SSIS:Property>
                 <SSIS:Property SSIS:Name="Description">
                 </SSIS:Property>
                 <SSIS:Property SSIS:Name="ProtectionLevel">1</SSIS:Property>
               </SSIS:Properties>
               <SSIS:Parameters>
+                <SSIS:Parameter SSIS:Name="DESKTOPMMVBRN0STGQL1_ConnectionString">
+                  <SSIS:Properties>
+                    <SSIS:Property SSIS:Name="ID">{12F26F37-64C3-44B6-B9C6-0C7FBBAD00D6}</SSIS:Property>
+                    <SSIS:Property SSIS:Name="CreationName">
+                    </SSIS:Property>
+                    <SSIS:Property SSIS:Name="Description">
+                    </SSIS:Property>
+                    <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Sensitive">0</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value">Data Source=DESKTOP-MMVBRN0;Initial Catalog=STGQL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
+                    <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
+                  </SSIS:Properties>
+                </SSIS:Parameter>
                 <SSIS:Parameter SSIS:Name="ExecuteSQLTask_Connection">
                   <SSIS:Properties>
                     <SSIS:Property SSIS:Name="ID">{C28FC977-F953-4449-A2D2-0561783251C9}</SSIS:Property>
@@ -1297,7 +1415,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">1</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAACbY62hMG1WptIh0QBTIZC9ZBGQAlLkqhuK/2AWYRikAwAAAAAOgAAAAAIAACAAAADxjB3STjoOj7mJDn7Lvzf8i23pBK1I2nGPKohKKqoDcJAAAAB8vsa8OVGanrblj6PzjHPBZmmCu8Wtt2t/Mlhenf2SYDmtx4IPdlRRmvkvlAROcV6FrQ7bAhvDOjoE5uv0j4eK/HeKQf+iz6Hd+azEkab0XD+Di9pubfwNsO/oZHUHWdWde8M/JxR9mjumMxNhXavqiPruhKUzMzaOlCQhx3LimaKrzfDqVnDshcdnfRJwdAtAAAAAtblpe3Hy71kRLYZmk25xLcFtpxIT9iojLKU4LkIrOIN6l5pU5xs1pwNlnJzXM0uyUibzGW29gfZH6nntaSkEVw==</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAAC79/mDC0NUKLlL6DsQzyr3BOB4KZTUtkX+30A5WkK00QAAAAAOgAAAAAIAACAAAABMSfTW/L4YKP+twtG9O/IdQoE4+BSxDbNIgXnXpFChDpAAAACIsBPEGoam4uvlYzv4wEP/hBZirw+W99AJxd9W+7ATeS6EA0yhc00k6yuSYkEmr8IUMkIS+gLQ/yv1P/7To9BXMAWd69XIJL6elyth15LWEbRSMXrl9ieOFcusCiEOlSLNCbDkr/BbhmRZNxUDXpj+2bj6BxK9i/dUKosxZiRhFVCPE7MYZW+idSnhbOObe1lAAAAA76rcbqVeJ/t1wfv8jfmKUNuQAmLvM2asE16QnW08P/h8q+ZCYUOm4ThfnzMnrAl+ox9Fo4HK9loUzVk/8zmqJA==</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
@@ -1311,7 +1429,7 @@
                     <SSIS:Property SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Required">0</SSIS:Property>
                     <SSIS:Property SSIS:Name="Sensitive">1</SSIS:Property>
-                    <SSIS:Property SSIS:Name="Value" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAADu+BfAMzEy7dPKw6GHxEoNQsU/HKXYt9qZ4PZ6nn9dKwAAAAAOgAAAAAIAACAAAAAawJKPSALCU5mnJ0Fp4MKiXjYL/9U0btCZ3a+2A4JJ4ZAAAACz8euhP/RjSaJ9U2NpamL1HW/5Tg1ac7QxXXHsl/VVTBWEwZVLJjeTohA7YNd9OXKVucXiEOX4QBMr9XTsGewwJcwz4tCsCEc+7l5Lg3ZF1K4HhrpAMkqgiy59nrlUbDsfaONAOMdjFl1F2YrZFOoR9hUV3w1ReydNdLKxVTUTVnF/1a45xLvAZSqF+/B+f4dAAAAAPkcmPN8vXKoz4zkKqvFQ5OTt70aihsRChyblnJJ/V0MrcHC+fuVycikcr+maysS72WkEoTUW85jQWxfhptPZZw==</SSIS:Property>
+                    <SSIS:Property SSIS:Name="Value" SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAABWK7FWxrTdcOCSs4nuEmE4ZhyAAUKfbNmgg8+/SDZNBAAAAAAOgAAAAAIAACAAAABGrWQZ41UVzQqqk+6olHjJRMeqrFtFrTlDDo01YnfKJ5AAAACa0cDo4KWFTaKvPZ3rNCiT2d8wyos8Bnbf+QA4Imp9RhSPXnP0/spO6wVHR9JP5RzRmVtqQ6URiOtjtH2z45iOPNSUz8wX/lTWcdIa7UUfkYBxqpwwa6mgAR4C1k0DI7s+ualOPlr4UMMygM6uPqRGWH7Iv+cfFKPKOLf1b3pDvf10M7Eb8QLwAT05WSZsl51AAAAAKYhCzFyEXvnsd+A+JX+NumteIXRbN1ocBnxdB4gPcXAVRl8C0UO/Byqcf/H53HuezpgEphtvAyt3ycOKzSluFw==</SSIS:Property>
                     <SSIS:Property SSIS:Name="DataType">18</SSIS:Property>
                   </SSIS:Properties>
                 </SSIS:Parameter>
