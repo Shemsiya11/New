@@ -4,7 +4,7 @@
   DTS:DTSID="{171CD0CA-10F7-4BF9-8F01-03B40568D419}"
   DTS:CreationName="OLEDB">
   <DTS:PropertyExpression
-    DTS:Name="ConnectionString">@[$Package::DESKTOPMMVBRN0STGQL1_ConnectionString]</DTS:PropertyExpression>
+    DTS:Name="ConnectionString">@[$Project::DESKTOPMMVBRN0STGQL1_ConnectionString]</DTS:PropertyExpression>
   <DTS:ObjectData>
     <DTS:ConnectionManager
       DTS:ConnectionString="Data Source=DESKTOP-MMVBRN0;Initial Catalog=STGQL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />

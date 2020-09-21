@@ -122,7 +122,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAADsumAuIM8kRUOfdRmox6pYdZ0qviJ8iP+YeSVXyjTftwAAAAAOgAAAAAIAACAAAABSgHZgcX9ueWDOclBgWh4n3b1BDT7ei7YtIU7EkbG0hIAAAAC26EWcZYFiCwWsesExpdmG+8DGd41dnFXCUqSGAB4XIZrPaqa0lnEwa55/+6IW9gySqVi6RgBFu6mN7C44BEtxMThu2yEQ0noTF5JWG1FiYcRnmIJTHS1iBcC3YnbFQjUzU6bMKGjpu5vQ8ynAeWnC9Jm61DM5rdoIDI9Vodmv9EAAAACR+12t+g1bYJlzyhlYordaskiBlHJ0DcjsudHYoAbK1JSOQLPqdH7QzgWtWg3Bk/29WTBCs9P7YYO4iCwEY/Ux</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAABrNV62+WlXyG5nkQb46InS2ow9Bj8pSF4+G9YjE90iTQAAAAAOgAAAAAIAACAAAAAlUcsvs7Fv7/CSg87pTRxsfxfFSV5gmxZ+FjwEApUfMIAAAACYSeXZHnh3gUsyMNuXBb2Xo0RwOGdDtgEtFm8gX+NPo/somDk6CebaQqwFFXF59nBeTaLKWVm++7PKUsstf/IiaA1OZUVWlN0kF2xD2PqUGQJo9Y1LnqI2DVJ4+EODR1pmbyBT3yen4mmEuweLE1dcPP0MVo9PNaueCmA0W1gWhEAAAAAD03LAU3VsUVxKvciuodInuVpbaftDdnd4f2gJzs3AeGrKls47eMRliAt0meM9vihnYk/BlYGuWpy4PCYmk0sp</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -144,6 +144,27 @@
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value">ftp.drivehq.com:21</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="DESKTOPMMVBRN0STGQL1_ConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{3726dc5c-a36c-4cae-b74a-59168d4af78e}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value">Data Source=DESKTOP-MMVBRN0;Initial Catalog=STGQL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
