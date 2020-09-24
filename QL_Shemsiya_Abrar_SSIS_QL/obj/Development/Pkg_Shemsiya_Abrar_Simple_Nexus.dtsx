@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Shemsiya_Abrar_Simple_Nexus"
   DTS:PackageType="5"
-  DTS:VersionBuild="423"
-  DTS:VersionGUID="{81CFEC06-AF4E-4914-B86B-FF00228E6433}">
+  DTS:VersionBuild="427"
+  DTS:VersionGUID="{4CDA345A-7D01-4C06-8BDF-F554305142DF}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -104,7 +104,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAvXO7SJfXRwdEQSXanPBNtAXUo6t5McD85DzFaQz7DdgAAAAAOgAAAAAIAACAAAABTPsdlQEaxQVAz6fKfuHX8018YLO+NVQbCioFmpdgzqCAAAAC3PWUh9WhPm8DtxsygDWdagyQH+LdBpMpilXQM2m3BFkAAAAAcA/tNHYz1egvj2iPmqi2kzj8w0cGJqmeQi5DzCJvyLO7bgX1ygSe+jscqHN2Pvx2HXt5Yi8h3hCNaYJKsGCAc</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAANAkKVVfPpp6vFc27LMLAWKCmr6fJiY+ZRxTiX9p3GhQAAAAAOgAAAAAIAACAAAACma0GIMXmOff/swADzdy+5yoJs2jVrk6E1VMAve0V8XyAAAACin9vg6Xr8CSYrmt3UBcVJM5iyNPkbq7NhovmqL0xy6UAAAABaBitjxsHpCu8Lh1HELQs4xwnHd5Q4MbFfJ4BBMiWB0dSgVTKR6LmYG4/2lyRZsnnv8ZK/sKP923NJWijesN7S</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -118,7 +118,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACSOF9+Unnm2Dx2oCIUrUGg5KRazJYNk5FUE/+klzv6RQAAAAAOgAAAAAIAACAAAAAQh37s7q0udzXthXuzYEzE85aO0Tg/UCd9ZSdvIWKiBCAAAACWEFoTFHUPJX0Q7e1+FYEnjXMZ0CnyS2U3+c0uk+OuxUAAAADuilnQp4JuKRSpNWC1EREr/1OJbZWW1e6KgeqMSb756I7Nz981OMY+3o4pGs/RqbAr7Jfknw2hkV5fnSULomoW</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA1mdQdLDTdnF68DiONHL1cUGCT70lE9j/ub/rQXvQLPwAAAAAOgAAAAAIAACAAAACcVqmsUHiaUgpQ095rVJhNXN6LYO2zJyAXpvNVV1jlFSAAAACrsnd9R0PSKMWImrwZl5YM6hOX5Shlig66mSEPfLEUBUAAAAB4yo8g83wOjmBqB6zG5dJtoQfVfo1rb7Jfbz2niqZMT2BPS/yW/qm9RE65MU3OUkFW4UGD30eflX78cm4myA8t</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -132,7 +132,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAIOUmjzRh7D+xMR+NNaOvD0z66hyhfEAH6lf66uL02pQAAAAAOgAAAAAIAACAAAAAnGJ08oOa/pOD6NO4wzLJPNnFwHTkvwenfuxYc3E/OJyAAAACV5gazwXIBBHbepQdNl/nFkAJHZNQgnnxlfEspj+JwI0AAAAA+B0nUvNwvZh3AFjBaRU3/FhRGRr/ahAPEn6mLdBxptFeOkEa95+fBKjroismfpj8zJcGMWKtpIy9X+8NVti/Z</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAByv1G/tIznKEKBr16murR3iINEJePKAxYXNQkWGPjYSQAAAAAOgAAAAAIAACAAAACdPUtlVawujX5OmAdHMk0tZfJf47i2wd0I6sxntow20yAAAAAQdztiQdL/pte5lz+O25rIVdXS8lW3YrzHEReOLDc95kAAAAB6tJ4XLH/g9rpK1Ch9dtJzLpA6LQ7gGAijCg1CILgTGn8G4CZZYaOk7+tB3qt/eAigtY48eYZPaJYffnMNfqnm</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -155,7 +155,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 10:10:46 PM</DTS:VariableValue>
+        DTS:DataType="7">9/23/2020 10:55:05 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -193,7 +193,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-10-45.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-55-04.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -408,7 +408,7 @@ WITH (
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 10:10:46 PM</DTS:VariableValue>
+        DTS:DataType="7">9/23/2020 10:55:05 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -465,7 +465,7 @@ WITH (
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Error_Log"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -664,7 +664,7 @@ WITH (
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\File System Task_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-10-45.zip"
+          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-55-04.zip"
           DTS:DTSID="{EB1E7F7B-EE1B-4A30-8B4E-9D6B5856D5A8}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
@@ -745,14 +745,91 @@ WITH (
           ReadOnlyVariables="User::VarFileName,User::VarLocalFolder"
           ReadWriteVariables="User::VarFileExistsFlag">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="ST_46089609616d41ebb75b1bb94fdeeec3.csproj"
+            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{f4ec0b00-c8ca-43d8-be61-4a0fc0ce9d0c}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ST_46089609616d41ebb75b1bb94fdeeec3</RootNamespace>
+    <AssemblyName>ST_46089609616d41ebb75b1bb94fdeeec3</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
+    <TargetFrameworkProfile></TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>.\bin\Debug\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
+    <DebugSymbols>false</DebugSymbols>
+    <Optimize>true</Optimize>
+    <OutputPath>.\bin\Release\</OutputPath>
+    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="ScriptMain.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <!-- Include the build rules for a C# project.-->
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}">
+        <ProjectProperties HostName="ScriptTask" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" DebugInfoCommandLine="" DebugInfoWorkingDir="" IconImageList="" />
+        <Host Name="ScriptTask" GeneratedNamespace="$safeprojectname" IconIndex=""></Host>
+        <ProjectClient>
+          <HostIdentifier>SSIS_ST150</HostIdentifier>
+        </ProjectClient>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+</Project>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -873,34 +950,35 @@ WITH (
   </resheader>
 </root>]]></ProjectItem>
           <ProjectItem
-            Name="Properties\Settings.Designer.cs"
-            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
 //
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_46089609616d41ebb75b1bb94fdeeec3")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_46089609616d41ebb75b1bb94fdeeec3")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
 
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_46089609616d41ebb75b1bb94fdeeec3.Properties.Settings.get_Default():ST_46089609616d41ebb75b1bb94fdeeec3.Properties.Sett" +
-    "ings")]
-
-namespace ST_46089609616d41ebb75b1bb94fdeeec3.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="ScriptMain.cs"
             Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -1054,121 +1132,43 @@ namespace ST_46089609616d41ebb75b1bb94fdeeec3
   </msb:ItemGroup>
 </c:Project>]]></ProjectItem>
           <ProjectItem
-            Name="ST_46089609616d41ebb75b1bb94fdeeec3.csproj"
-            Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
-<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-  <PropertyGroup>
-    <ProjectTypeGuids>{30D016F9-3734-4E33-A861-5E7D899E18F3};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
-    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
-    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProductVersion>8.0.30703</ProductVersion>
-    <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{f4ec0b00-c8ca-43d8-be61-4a0fc0ce9d0c}</ProjectGuid>
-    <OutputType>Library</OutputType>
-    <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ST_46089609616d41ebb75b1bb94fdeeec3</RootNamespace>
-    <AssemblyName>ST_46089609616d41ebb75b1bb94fdeeec3</AssemblyName>
-    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
-    <FileAlignment>512</FileAlignment>
-    <ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>true</ResolveAssemblyReferenceIgnoreTargetFrameworkAttributeVersionMismatch>
-    <TargetFrameworkProfile></TargetFrameworkProfile>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)' == 'Debug' ">
-    <DebugSymbols>true</DebugSymbols>
-    <DebugType>full</DebugType>
-    <Optimize>false</Optimize>
-    <OutputPath>.\bin\Debug\</OutputPath>
-    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
-    <DefineConstants>DEBUG;TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <PropertyGroup Condition=" '$(Configuration)' == 'Release' ">
-    <DebugSymbols>false</DebugSymbols>
-    <Optimize>true</Optimize>
-    <OutputPath>.\bin\Release\</OutputPath>
-    <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
-    <DefineConstants>TRACE</DefineConstants>
-    <ErrorReport>prompt</ErrorReport>
-    <WarningLevel>4</WarningLevel>
-  </PropertyGroup>
-  <ItemGroup>
-    <Reference Include="System" />
-    <Reference Include="System.Data" />
-    <Reference Include="System.Windows.Forms" />
-    <Reference Include="System.Xml" />
-    <Reference Include="Microsoft.SqlServer.ManagedDTS, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-    <Reference Include="Microsoft.SqlServer.ScriptTask, Version=15.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
-  </ItemGroup>
-  <ItemGroup>
-    <AppDesigner Include="Properties\" />
-    <Compile Include="Properties\AssemblyInfo.cs">
-      <SubType>Code</SubType>
-    </Compile>
-    <EmbeddedResource Include="Properties\Resources.resx">
-      <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-    </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="Properties\Settings.settings">
-      <Generator>SettingsSingleFileGenerator</Generator>
-      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
-    </None>
-    <Compile Include="Properties\Settings.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Settings.settings</DependentUpon>
-    </Compile>
-    <Compile Include="ScriptMain.cs">
-      <SubType>Code</SubType>
-    </Compile>
-  </ItemGroup>
-  <!-- Include the build rules for a C# project.-->
-  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
-  <ProjectExtensions>
-    <VisualStudio>
-      <FlavorProperties GUID="{30D016F9-3734-4E33-A861-5E7D899E18F3}">
-        <ProjectProperties HostName="ScriptTask" HostPackage="{B3A685AA-7EAF-4BC6-9940-57959FA5AC07}" ApplicationType="usd" Language="cs" TemplatesPath="" DebugInfoCommandLine="" DebugInfoWorkingDir="" IconImageList="" />
-        <Host Name="ScriptTask" GeneratedNamespace="$safeprojectname" IconIndex=""></Host>
-        <ProjectClient>
-          <HostIdentifier>SSIS_ST150</HostIdentifier>
-        </ProjectClient>
-      </FlavorProperties>
-    </VisualStudio>
-  </ProjectExtensions>
-</Project>]]></ProjectItem>
+            Name="Properties\Settings.Designer.cs"
+            Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_46089609616d41ebb75b1bb94fdeeec3.Properties.Settings.get_Default():ST_46089609616d41ebb75b1bb94fdeeec3.Properties.Sett" +
+    "ings")]
+
+namespace ST_46089609616d41ebb75b1bb94fdeeec3.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_46089609616d41ebb75b1bb94fdeeec3")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_46089609616d41ebb75b1bb94fdeeec3")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -1366,7 +1366,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task _the_second"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -1376,14 +1376,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
           Language="CSharp"
           ReadOnlyVariables="System::PackageName,User::VarFileName,User::VarFromEmail,User::VarLocalFolder,User::VarPassword,User::VarRemotePath,User::VarSmtpClinet,User::VarSmtpServerPort,User::VarSubject,User::VarTimeStamp,User::VarToEmail">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -1787,35 +1808,14 @@ namespace ST_584c22aed5454022ae0d317db31705c4.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -9826,14 +9826,6 @@ where [refTable].[MarketSource] = ?</property>
                           externalMetadataColumnId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[LastLoadDate]"
                           lineageId="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup.Outputs[Fuzzy Lookup Output].Columns[LastLoadDate]" />
                         <inputColumn
-                          refId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[LeadSource]"
-                          cachedCodepage="1252"
-                          cachedDataType="str"
-                          cachedLength="8000"
-                          cachedName="LeadSource"
-                          externalMetadataColumnId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[LeadSource]"
-                          lineageId="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup.Outputs[Fuzzy Lookup Output].Columns[LeadSource]" />
-                        <inputColumn
                           refId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[LeadId]"
                           cachedCodepage="1252"
                           cachedDataType="str"
@@ -10555,6 +10547,14 @@ where [refTable].[MarketSource] = ?</property>
                           cachedName="Loan_Processor_Name"
                           externalMetadataColumnId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[ProcessorFullName]"
                           lineageId="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup.Outputs[Fuzzy Lookup Output].Columns[Loan_Processor_Name]" />
+                        <inputColumn
+                          refId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].Columns[DC_LeadSource]"
+                          cachedCodepage="1252"
+                          cachedDataType="str"
+                          cachedLength="255"
+                          cachedName="DC_LeadSource"
+                          externalMetadataColumnId="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1.Inputs[OLE DB Destination Input].ExternalColumns[LeadSource]"
+                          lineageId="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup.Outputs[Fuzzy Lookup Output].Columns[DC_LeadSource]" />
                       </inputColumns>
                       <externalMetadataColumns
                         isUsed="True">
@@ -13429,14 +13429,35 @@ where [refTable].[MarketSource] = ?</property>
               ReadOnlyVariables="System::PackageName,User::VarFromEmail,User::VarPassword,User::VarSmtpClinet,User::VarSmtpServerPort,User::VarSubject,User::VarToEmail"
               ReadWriteVariables="System::ErrorCode,System::ErrorDescription,User::VarTimeStamp">
               <ProjectItem
-                Name="Properties\Settings.settings"
-                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+                Name="Properties\AssemblyInfo.cs"
+                Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.resx"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -13556,6 +13577,35 @@ where [refTable].[MarketSource] = ?</property>
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=2.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
 </root>]]></ProjectItem>
+              <ProjectItem
+                Name="Properties\Settings.Designer.cs"
+                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
+// <auto-generated>
+//     This code was generated by a tool.
+//
+//     Changes to this file may cause incorrect behavior and will be lost if
+//     the code is regenerated.
+// </auto-generated>
+//------------------------------------------------------------------------------
+
+[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_584c22aed5454022ae0d317db31705c4.Properties.Settings.get_Default():ST_584c22aed5454022ae0d317db31705c4.Properties.Sett" +
+    "ings")]
+
+namespace ST_584c22aed5454022ae0d317db31705c4.Properties {
+    
+    
+    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
+        
+        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
+        private static Settings defaultInstance = new Settings();
+        
+        public static Settings Default {
+            get {
+                return defaultInstance;
+            }
+        }
+    }
+}]]></ProjectItem>
               <ProjectItem
                 Name="ScriptMain.cs"
                 Encoding="UTF8"><![CDATA[#region Help:  Introduction to the script task
@@ -13704,6 +13754,26 @@ namespace ST_584c22aed5454022ae0d317db31705c4
 	}
 }]]></ProjectItem>
               <ProjectItem
+                Name="Project"
+                Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
+  <msb:PropertyGroup>
+    <msb:CodeName>ST_584c22aed5454022ae0d317db31705c4</msb:CodeName>
+    <msb:Language>msBuild</msb:Language>
+    <msb:DisplayName>ST_584c22aed5454022ae0d317db31705c4</msb:DisplayName>
+    <msb:ProjectId>{445EFC2F-2BA5-4FC7-BBB3-FF2D6C8E801F}</msb:ProjectId>
+  </msb:PropertyGroup>
+  <msb:ItemGroup>
+    <msb:Project Include="ST_584c22aed5454022ae0d317db31705c4.csproj" />
+    <msb:File Include="Properties\Settings.settings" />
+    <msb:File Include="Properties\AssemblyInfo.cs" />
+    <msb:File Include="Properties\Resources.resx" />
+    <msb:File Include="Properties\Resources.Designer.cs" />
+    <msb:File Include="Properties\Settings.Designer.cs" />
+    <msb:File Include="ScriptMain.cs" />
+  </msb:ItemGroup>
+</c:Project>]]></ProjectItem>
+              <ProjectItem
                 Name="ST_584c22aed5454022ae0d317db31705c4.csproj"
                 Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
@@ -13790,84 +13860,14 @@ namespace ST_584c22aed5454022ae0d317db31705c4
   </ProjectExtensions>
 </Project>]]></ProjectItem>
               <ProjectItem
-                Name="Project"
-                Encoding="UTF16LE"><![CDATA[<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
-<c:Project xmlns:c="http://schemas.microsoft.com/codeprojectml/2010/08/main" xmlns:msb="http://schemas.microsoft.com/developer/msbuild/2003" runtimeVersion="4.0" schemaVersion="1.0">
-  <msb:PropertyGroup>
-    <msb:CodeName>ST_584c22aed5454022ae0d317db31705c4</msb:CodeName>
-    <msb:Language>msBuild</msb:Language>
-    <msb:DisplayName>ST_584c22aed5454022ae0d317db31705c4</msb:DisplayName>
-    <msb:ProjectId>{445EFC2F-2BA5-4FC7-BBB3-FF2D6C8E801F}</msb:ProjectId>
-  </msb:PropertyGroup>
-  <msb:ItemGroup>
-    <msb:Project Include="ST_584c22aed5454022ae0d317db31705c4.csproj" />
-    <msb:File Include="Properties\Settings.settings" />
-    <msb:File Include="Properties\AssemblyInfo.cs" />
-    <msb:File Include="Properties\Resources.resx" />
-    <msb:File Include="Properties\Resources.Designer.cs" />
-    <msb:File Include="Properties\Settings.Designer.cs" />
-    <msb:File Include="ScriptMain.cs" />
-  </msb:ItemGroup>
-</c:Project>]]></ProjectItem>
-              <ProjectItem
-                Name="Properties\Settings.Designer.cs"
-                Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
-// <auto-generated>
-//     This code was generated by a tool.
-//
-//     Changes to this file may cause incorrect behavior and will be lost if
-//     the code is regenerated.
-// </auto-generated>
-//------------------------------------------------------------------------------
-
-[assembly: global::System.Diagnostics.CodeAnalysis.SuppressMessageAttribute("Microsoft.Performance", "CA1811:AvoidUncalledPrivateCode", Scope="member", Target="ST_584c22aed5454022ae0d317db31705c4.Properties.Settings.get_Default():ST_584c22aed5454022ae0d317db31705c4.Properties.Sett" +
-    "ings")]
-
-namespace ST_584c22aed5454022ae0d317db31705c4.Properties {
-    
-    
-    internal sealed partial class Settings : global::System.Configuration.ApplicationSettingsBase {
-        
-        [global::System.Runtime.CompilerServices.CompilerGeneratedAttribute()]
-        private static Settings defaultInstance = new Settings();
-        
-        public static Settings Default {
-            get {
-                return defaultInstance;
-            }
-        }
-    }
-}]]></ProjectItem>
-              <ProjectItem
-                Name="Properties\AssemblyInfo.cs"
-                Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+                Name="Properties\Settings.settings"
+                Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
               <ProjectItem
                 Name="Properties\Resources.Designer.cs"
                 Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -14124,15 +14124,15 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <NodeLayout
           Size="340.666666666667,42"
           Id="Package\Data Flow Task_MortgageInsuranceCompanyCrossWalk"
-          TopLeft="30.1302078843579,507.194444444443" />
+          TopLeft="30.1302078843579,552.944444444443" />
         <NodeLayout
           Size="215.333333333334,42"
           Id="Package\Execute SQL Task_Error_Log"
-          TopLeft="51.624997755513,581.333333333333" />
+          TopLeft="51.624997755513,627.083333333333" />
         <NodeLayout
           Size="209.333333333334,42"
           Id="Package\Execute SQL Task_ETL_Log"
-          TopLeft="962.442690942049,653.249999999999" />
+          TopLeft="762.052068928102,600.249999999999" />
         <NodeLayout
           Size="230.333333333334,42"
           Id="Package\Foreach Loop Container\Execute Process Task unzip_File"
@@ -14181,19 +14181,27 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           PanelSize="268.333333333334,273.666666666667"
           Size="268.333333333334,316.666666666667"
           Id="Package\Foreach Loop Container"
-          TopLeft="365.943447057114,95.0317460317461" />
+          TopLeft="365.943447057114,140.781746031746" />
         <NodeLayout
           Size="193.666666666667,42"
           Id="Package\FTP Task_Simple_Nexus"
-          TopLeft="61.7708324128766,102.174603174603" />
+          TopLeft="61.7708324128766,147.924603174603" />
         <NodeLayout
           Size="131,42"
           Id="Package\Script Task"
-          TopLeft="95.6249985750761,230.444444444445" />
+          TopLeft="95.6249985750761,276.194444444445" />
         <NodeLayout
           Size="194,42"
           Id="Package\Script Task _the_second"
-          TopLeft="41.9494041368107,342.698412698412" />
+          TopLeft="41.9494041368107,388.448412698412" />
+        <NodeLayout
+          Size="166.666666666667,42"
+          Id="Package\Sequence Container\Data_SimpleNexus"
+          TopLeft="150.291664509103,265.388888888889" />
+        <NodeLayout
+          Size="163.333333333334,42"
+          Id="Package\Sequence Container\Execute SQL Task"
+          TopLeft="162.208315573012,20.3333333333332" />
         <NodeLayout
           Size="301.666666666667,42"
           Id="Package\Sequence Container\Execute SQL Task_Delete_SimpleNexus_source"
@@ -14240,10 +14248,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="163.333333333334,42"
-          Id="Package\Sequence Container\Execute SQL Task"
-          TopLeft="162.208315573012,20.3333333333332" />
         <EdgeLayout
           Id="Package\Sequence Container.PrecedenceConstraints[Constraint 1]"
           TopLeft="243.874982239679,62.3333333333332">
@@ -14278,10 +14282,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
-        <NodeLayout
-          Size="166.666666666667,42"
-          Id="Package\Sequence Container\Data_SimpleNexus"
-          TopLeft="150.291664509103,265.388888888889" />
         <EdgeLayout
           Id="Package\Sequence Container.PrecedenceConstraints[Constraint 2]"
           TopLeft="204.364580831956,234.972222222222">
@@ -14353,36 +14353,36 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <ContainerLayout
           HeaderHeight="43"
           IsExpanded="True"
-          PanelSize="599.333333333334,504.666666666667"
-          Size="599.333333333334,547.666666666667"
+          PanelSize="360.666666666667,489.666666666667"
+          Size="360.666666666667,532.666666666667"
           Id="Package\Sequence Container"
-          TopLeft="949.687485848553,28.777777777778" />
+          TopLeft="729.572911852504,15.1111111111113" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="1249.35415251522,576.444444444445">
+          TopLeft="909.906245185838,547.777777777778">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-182.244794906504,76.8055555555549"
+              EndConnector="-43.1875095910689,52.4722222222208"
               Start="0,0"
-              End="-182.244794906504,69.3055555555549">
+              End="-43.1875095910689,44.9722222222208">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,34.4027777777774" />
+                    End="0,22.2361111111104" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,34.4027777777774"
-                    Point2="0,38.4027777777774"
-                    Point3="-4,38.4027777777774" />
+                    Point1="0,22.2361111111104"
+                    Point2="0,26.2361111111104"
+                    Point3="-4,26.2361111111104" />
                   <mssgle:LineSegment
-                    End="-178.244794906504,38.4027777777774" />
+                    End="-39.1875095910689,26.2361111111104" />
                   <mssgle:CubicBezierSegment
-                    Point1="-178.244794906504,38.4027777777774"
-                    Point2="-182.244794906504,38.4027777777774"
-                    Point3="-182.244794906504,42.4027777777774" />
+                    Point1="-39.1875095910689,26.2361111111104"
+                    Point2="-43.1875095910689,26.2361111111104"
+                    Point3="-43.1875095910689,30.2361111111104" />
                   <mssgle:LineSegment
-                    End="-182.244794906504,69.3055555555549" />
+                    End="-43.1875095910689,44.9722222222208" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14393,7 +14393,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 1]"
-          TopLeft="159.864582160643,144.174603174603">
+          TopLeft="159.864582160643,189.924603174603">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -14414,8 +14414,42 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
+          Id="Package.PrecedenceConstraints[Constraint 2]"
+          TopLeft="634.276780390447,299.115079365079">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="95.2961314620568,-17.6706349206348"
+              Start="0,0"
+              End="87.7961314620568,-17.6706349206348">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="43.6480657310284,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="43.6480657310284,0"
+                    Point2="47.6480657310284,0"
+                    Point3="47.6480657310284,-4" />
+                  <mssgle:LineSegment
+                    End="47.6480657310284,-13.6706349206348" />
+                  <mssgle:CubicBezierSegment
+                    Point1="47.6480657310284,-13.6706349206348"
+                    Point2="47.6480657310284,-17.6706349206348"
+                    Point3="51.6480657310284,-17.6706349206348" />
+                  <mssgle:LineSegment
+                    End="87.7961314620568,-17.6706349206348" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 3]"
-          TopLeft="226.624998575076,252.404761904762">
+          TopLeft="226.624998575076,298.154761904762">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -14439,7 +14473,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 4]"
-          TopLeft="161.124998575076,272.444444444445">
+          TopLeft="161.124998575076,318.194444444445">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
@@ -14471,40 +14505,6 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
             <mssgm:EdgeLabel
               BoundingBox="-19.0877972191327,40.126984126984,16,16"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="634.276780390447,253.365079365079">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="315.410705458106,49.2460317460319"
-              Start="0,0"
-              End="307.910705458106,49.2460317460319">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="153.705352729053,0" />
-                  <mssgle:CubicBezierSegment
-                    Point1="153.705352729053,0"
-                    Point2="157.705352729053,0"
-                    Point3="157.705352729053,4" />
-                  <mssgle:LineSegment
-                    End="157.705352729053,45.2460317460319" />
-                  <mssgle:CubicBezierSegment
-                    Point1="157.705352729053,45.2460317460319"
-                    Point2="157.705352729053,49.2460317460319"
-                    Point3="161.705352729053,49.2460317460319" />
-                  <mssgle:LineSegment
-                    End="307.910705458106,49.2460317460319" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -14646,49 +14646,227 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <NodeLayout
           Size="153.666666666667,42"
           Id="Package\Sequence Container\Data_SimpleNexus\Derived Column"
-          TopLeft="744.838883959165,442.72619047619" />
+          TopLeft="454.526388285158,302.059523809523" />
         <NodeLayout
-          Size="130.333333333334,42"
-          Id="Package\Sequence Container\Data_SimpleNexus\Row Count"
-          TopLeft="891.195348305862,214.569597069597" />
-        <NodeLayout
-          Size="207.666666666667,42"
-          Id="Package\Sequence Container\Data_SimpleNexus\Derived Column_Salesforce"
-          TopLeft="243.422169721701,348.463553113554" />
-        <NodeLayout
-          Size="301.333333333334,71.3333333333334"
-          Id="Package\Sequence Container\Data_SimpleNexus\Conditional Split_BorrFirst_LastName_Not_Test"
-          TopLeft="368.730115772204,194.809340659341" />
+          Size="142.666666666667,42"
+          Id="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup"
+          TopLeft="308.159727237394,240" />
         <NodeLayout
           Size="192.333333333334,42"
           Id="Package\Sequence Container\Data_SimpleNexus\Lookup _Market_Source"
-          TopLeft="290.574401108264,484.981768231768" />
+          TopLeft="108.699403818413,336.315101565101" />
+        <NodeLayout
+          Size="159.333333333334,42"
+          Id="Package\Sequence Container\Data_SimpleNexus\OLE DB Source 1"
+          TopLeft="48.3173133454359,29.2820512820513" />
+        <NodeLayout
+          Size="207.666666666667,42"
+          Id="Package\Sequence Container\Data_SimpleNexus\Derived Column_Salesforce"
+          TopLeft="46.8596726507105,247.796886446887" />
+        <NodeLayout
+          Size="180,42"
+          Id="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1"
+          TopLeft="699.281522463094,279.102564102564" />
+        <NodeLayout
+          Size="130.333333333334,42"
+          Id="Package\Sequence Container\Data_SimpleNexus\Row Count"
+          TopLeft="532.445353651653,141.569597069597" />
+        <NodeLayout
+          Size="301.333333333334,71.3333333333334"
+          Id="Package\Sequence Container\Data_SimpleNexus\Conditional Split_BorrFirst_LastName_Not_Test"
+          TopLeft="43.4176206197378,119.809340659341" />
         <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Derived Column Output]"
-          TopLeft="845.949995070276,442.72619047619">
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Row Count Output 1]"
+          TopLeft="618.000909207209,183.569597069597">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="90.0231310133638,-186.156593406593"
+              EndConnector="171.280613255885,95.5329670329669"
               Start="0,0"
-              End="90.0231310133638,-178.656593406593">
+              End="171.280613255885,88.0329670329669">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,-88.8673976316619" />
+                    End="0,34.9083231069082" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,-88.8673976316619"
-                    Point2="0,-92.8673976316619"
-                    Point3="4,-92.8673976316619" />
+                    Point1="0,34.9083231069082"
+                    Point2="0,38.9083231069082"
+                    Point3="4,38.9083231069082" />
                   <mssgle:LineSegment
-                    End="86.0231310133638,-92.8673976316619" />
+                    End="167.280613255885,38.9083231069082" />
                   <mssgle:CubicBezierSegment
-                    Point1="86.0231310133638,-92.8673976316619"
-                    Point2="90.0231310133638,-92.8673976316619"
-                    Point3="90.0231310133638,-96.8673976316619" />
+                    Point1="167.280613255885,38.9083231069082"
+                    Point2="171.280613255885,38.9083231069082"
+                    Point3="171.280613255885,42.9083231069082" />
                   <mssgle:LineSegment
-                    End="90.0231310133638,-178.656593406593" />
+                    End="171.280613255885,88.0329670329669" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[OLE DB Source Output]"
+          TopLeft="127.983980012103,71.2820512820513">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="66.1003072743019,48.5272893772897"
+              Start="0,0"
+              End="66.1003072743019,41.0272893772897">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,20.2636446886449" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,20.2636446886449"
+                    Point2="0,24.2636446886449"
+                    Point3="4,24.2636446886449" />
+                  <mssgle:LineSegment
+                    End="62.1003072743019,24.2636446886449" />
+                  <mssgle:CubicBezierSegment
+                    Point1="62.1003072743019,24.2636446886449"
+                    Point2="66.1003072743019,24.2636446886449"
+                    Point3="66.1003072743019,28.2636446886449" />
+                  <mssgle:LineSegment
+                    End="66.1003072743019,41.0272893772897" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Lookup Match Output]"
+          TopLeft="235.588292707302,336.315101565101">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="143.904767863426,-54.315101565101"
+              Start="0,0"
+              End="143.904767863426,-46.815101565101">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-17.9949087809175" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-17.9949087809175"
+                    Point2="0,-21.9949087809175"
+                    Point3="4,-21.9949087809175" />
+                  <mssgle:LineSegment
+                    End="139.904767863426,-21.9949087809175" />
+                  <mssgle:CubicBezierSegment
+                    Point1="139.904767863426,-21.9949087809175"
+                    Point2="143.904767863426,-21.9949087809175"
+                    Point3="143.904767863426,-25.9949087809175" />
+                  <mssgle:LineSegment
+                    End="143.904767863426,-46.815101565101" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <mssgm:EdgeLabel
+              BoundingBox="23.7609972129628,-16.9949087809175,96.3827734375,11.609375"
+              RelativePosition="Any" />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Fuzzy Lookup Output]"
+          TopLeft="450.826393904061,261">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="56.2555499366532,41.0595238095229"
+              Start="0,0"
+              End="56.2555499366532,33.5595238095229">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="52.2555499366532,0" />
+                  <mssgle:CubicBezierSegment
+                    Point1="52.2555499366532,0"
+                    Point2="56.2555499366532,0"
+                    Point3="56.2555499366532,4" />
+                  <mssgle:LineSegment
+                    End="56.2555499366532,33.5595238095229" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Derived Column Output1]"
+          TopLeft="150.693005984044,289.796886446887">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="23.4508422788134,46.518215118214"
+              Start="0,0"
+              End="23.4508422788134,39.018215118214">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,23.6806567100819" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,23.6806567100819"
+                    Point2="0,27.6806567100819"
+                    Point3="4,27.6806567100819" />
+                  <mssgle:LineSegment
+                    End="19.4508422788134,27.6806567100819" />
+                  <mssgle:CubicBezierSegment
+                    Point1="19.4508422788134,27.6806567100819"
+                    Point2="23.4508422788134,27.6806567100819"
+                    Point3="23.4508422788134,31.6806567100819" />
+                  <mssgle:LineSegment
+                    End="23.4508422788134,39.018215118214" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Derived Column Output]"
+          TopLeft="555.637499396269,302.059523809523">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="21.5856320331619,-118.489926739926"
+              Start="0,0"
+              End="21.5856320331619,-110.989926739926">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,-55.1107246890214" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,-55.1107246890214"
+                    Point2="0,-59.1107246890214"
+                    Point3="4,-59.1107246890214" />
+                  <mssgle:LineSegment
+                    End="17.5856320331619,-59.1107246890214" />
+                  <mssgle:CubicBezierSegment
+                    Point1="17.5856320331619,-59.1107246890214"
+                    Point2="21.5856320331619,-59.1107246890214"
+                    Point3="21.5856320331619,-63.1107246890214" />
+                  <mssgle:LineSegment
+                    End="21.5856320331619,-110.989926739926" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14699,227 +14877,56 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package\Sequence Container\Data_SimpleNexus.Paths[BorrFirstorLastName_NotTest]"
-          TopLeft="519.396782438871,266.142673992674">
+          TopLeft="194.084287286405,191.142673992674">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-172.141279383836,82.3208791208797"
+              EndConnector="-43.3912813023607,56.6542124542131"
               Start="0,0"
-              End="-172.141279383836,74.8208791208797">
+              End="-43.3912813023607,49.1542124542131">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,37.1604395604399" />
+                    End="0,24.3271062271065" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,37.1604395604399"
-                    Point2="0,41.1604395604399"
-                    Point3="-4,41.1604395604399" />
+                    Point1="0,24.3271062271065"
+                    Point2="0,28.3271062271065"
+                    Point3="-4,28.3271062271065" />
                   <mssgle:LineSegment
-                    End="-168.141279383836,41.1604395604399" />
+                    End="-39.3912813023607,28.3271062271065" />
                   <mssgle:CubicBezierSegment
-                    Point1="-168.141279383836,41.1604395604399"
-                    Point2="-172.141279383836,41.1604395604399"
-                    Point3="-172.141279383836,45.1604395604399" />
+                    Point1="-39.3912813023607,28.3271062271065"
+                    Point2="-43.3912813023607,28.3271062271065"
+                    Point3="-43.3912813023607,32.3271062271065" />
                   <mssgle:LineSegment
-                    End="-172.141279383836,74.8208791208797" />
+                    End="-43.3912813023607,49.1542124542131" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
             <mssgm:EdgeLabel
-              BoundingBox="-151.627026410668,46.1604395604399,131.1127734375,10.7841796875"
+              BoundingBox="-87.2520273699304,33.3271062271065,131.1127734375,10.7841796875"
               RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Derived Column Output1]"
-          TopLeft="347.255503055034,390.463553113554">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="8.76334249767393,94.5182151182148"
-              Start="0,0"
-              End="8.76334249767393,87.0182151182148">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,52.2430492848504" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,52.2430492848504"
-                    Point2="0,56.2430492848504"
-                    Point3="4,56.2430492848504" />
-                  <mssgle:LineSegment
-                    End="4.76334249767393,56.2430492848504" />
-                  <mssgle:CubicBezierSegment
-                    Point1="4.76334249767393,56.2430492848504"
-                    Point2="8.76334249767393,56.2430492848504"
-                    Point3="8.76334249767393,60.2430492848504" />
-                  <mssgle:LineSegment
-                    End="8.76334249767393,87.0182151182148" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="180,42"
-          Id="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1"
-          TopLeft="1059.59401709402,524.102564102564" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Row Count Output 1]"
-          TopLeft="976.750903861418,256.569597069597">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="172.843113232599,267.532967032967"
-              Start="0,0"
-              End="172.843113232599,260.032967032967">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,104.959864289324" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,104.959864289324"
-                    Point2="0,108.959864289324"
-                    Point3="4,108.959864289324" />
-                  <mssgle:LineSegment
-                    End="168.843113232599,108.959864289324" />
-                  <mssgle:CubicBezierSegment
-                    Point1="168.843113232599,108.959864289324"
-                    Point2="172.843113232599,108.959864289324"
-                    Point3="172.843113232599,112.959864289324" />
-                  <mssgle:LineSegment
-                    End="172.843113232599,260.032967032967" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="142.666666666667,42"
-          Id="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup"
-          TopLeft="644.722222222222,361.666666666667" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Lookup Match Output]"
-          TopLeft="417.463289997152,484.981768231768">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="276.147821113958,-81.3151015651018"
-              Start="0,0"
-              End="276.147821113958,-73.8151015651018">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,-36.5138754392529" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,-36.5138754392529"
-                    Point2="0,-40.5138754392529"
-                    Point3="4,-40.5138754392529" />
-                  <mssgle:LineSegment
-                    End="272.147821113958,-40.5138754392529" />
-                  <mssgle:CubicBezierSegment
-                    Point1="272.147821113958,-40.5138754392529"
-                    Point2="276.147821113958,-40.5138754392529"
-                    Point3="276.147821113958,-44.5138754392529" />
-                  <mssgle:LineSegment
-                    End="276.147821113958,-73.8151015651018" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="89.8825238382292,-35.5138754392529,96.3827734375,11.609375"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[Fuzzy Lookup Output]"
-          TopLeft="738.5,403.666666666667">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="83.1722172924987,39.059523809523"
-              Start="0,0"
-              End="83.1722172924987,31.559523809523">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,11.8837250242053" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,11.8837250242053"
-                    Point2="0,15.8837250242053"
-                    Point3="4,15.8837250242053" />
-                  <mssgle:LineSegment
-                    End="79.1722172924987,15.8837250242053" />
-                  <mssgle:CubicBezierSegment
-                    Point1="79.1722172924987,15.8837250242053"
-                    Point2="83.1722172924987,15.8837250242053"
-                    Point3="83.1722172924987,19.8837250242053" />
-                  <mssgle:LineSegment
-                    End="83.1722172924987,31.559523809523" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <NodeLayout
-          Size="159.333333333334,42"
-          Id="Package\Sequence Container\Data_SimpleNexus\OLE DB Source 1"
-          TopLeft="427.692307692308,54.6153846153846" />
-        <EdgeLayout
-          Id="Package\Sequence Container\Data_SimpleNexus.Paths[OLE DB Source Output]"
-          TopLeft="507.358974358974,96.6153846153846">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="12.0378080798963,98.1939560439559"
-              Start="0,0"
-              End="12.0378080798963,90.6939560439559">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,45.096978021978" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,45.096978021978"
-                    Point2="0,49.096978021978"
-                    Point3="4,49.096978021978" />
-                  <mssgle:LineSegment
-                    End="8.03780807989625,49.096978021978" />
-                  <mssgle:CubicBezierSegment
-                    Point1="8.03780807989625,49.096978021978"
-                    Point2="12.0378080798963,49.096978021978"
-                    Point3="12.0378080798963,53.096978021978" />
-                  <mssgle:LineSegment
-                    End="12.0378080798963,90.6939560439559" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
     </LayoutInfo>
   </TaskHost>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
   <PipelineComponentMetadata
     design-time-name="Package\Sequence Container\Data_SimpleNexus\Lookup _Market_Source">
     <Properties>
@@ -14944,33 +14951,20 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
     </Properties>
   </PipelineComponentMetadata>
   <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
-    design-time-name="Package\Sequence Container\Data_SimpleNexus\Fuzzy Lookup">
-    <Properties>
-      <Property>
-        <Name>DataSourceViewID</Name>
-      </Property>
-      <Property>
-        <Name>TableInfoObjectType</Name>
-        <Value
-          type="q2:string">Table</Value>
-      </Property>
-    </Properties>
-  </PipelineComponentMetadata>
-  <PipelineComponentMetadata
     design-time-name="Package\Sequence Container\Data_SimpleNexus\OLE DB Source 1">
+    <Properties>
+      <Property>
+        <Name>DataSourceViewID</Name>
+      </Property>
+      <Property>
+        <Name>TableInfoObjectType</Name>
+        <Value
+          type="q2:string">Table</Value>
+      </Property>
+    </Properties>
+  </PipelineComponentMetadata>
+  <PipelineComponentMetadata
+    design-time-name="Package\Sequence Container\Data_SimpleNexus\OLE DB Destination 1">
     <Properties>
       <Property>
         <Name>DataSourceViewID</Name>
