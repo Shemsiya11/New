@@ -122,7 +122,7 @@
         SSIS:Name="Sensitive">1</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value"
-        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAABgCml7o9iyq6GbauYIutytWbafeViVPVEZYLgFgoevpQAAAAAOgAAAAAIAACAAAABvZnLB3Wxnaauk40dYBI2yS0vLGBYuOkPrw/RQ+lGU4YAAAAB5JD5aYCCYh52aUn/VgjOWpY1QCvfHKNYO57nUvX6Gn31SDNmqUh2WdxFB+RdYkV53xf6RpUpv2m3aDIZD6uzy7Byownnxt7TDkVH2k6CVw/VxHH1riFYAk8W2NgtrGrgnEup3LMFvpxaixiYLjOt7almzgpLQmvni2w5S7oQS9kAAAAA4fzge9ONYRkMiZeinMTykSR5b0vPX2larHOsJSFkstXhnvRRxrKdGzbm0g9WUtZu0UtAeS4kIl+UBtOlojRUC</SSIS:Property>
+        SSIS:Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAABni48S+fcyvmxEwj6aFx8BRhsamNPchQmhEzCEEPky0gAAAAAOgAAAAAIAACAAAAAEWIy/7B2vTehTx73icRCHfYSge5yRwH56E/pE1EbprIAAAADLX3na7fAV7WzdYScbEsIu0OVd+cF509DgxVO0dq+JDzJrOT4n4napTK9rhVFtEr90ogTTsW0wnLRTzAJjFNcTw6IUgJT4pqqJBszeB2FDZTsWMC36bHLlQFisklDKRz7Yr7lIxB95VdJKeaLb6FbE+TVOJwqIG1RyvjbHW1s780AAAAAJsDnUgIipH4NAg5IGj+IPj2d8UnqoAB6oQo+7VIBca90lf/RZpLbzaq4Eo4VOthYsSX+G4QpD5w3X4YPwKO/J</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>
@@ -165,6 +165,27 @@
         SSIS:Name="Sensitive">0</SSIS:Property>
       <SSIS:Property
         SSIS:Name="Value">Data Source=DESKTOP-MMVBRN0;Initial Catalog=STGQL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="DataType">18</SSIS:Property>
+    </SSIS:Properties>
+  </SSIS:Parameter>
+  <SSIS:Parameter
+    SSIS:Name="FTPConnectionManager1_ConnectionString">
+    <SSIS:Properties>
+      <SSIS:Property
+        SSIS:Name="ID">{24177a9e-2b06-4a18-9e08-a50881e5bb76}</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="CreationName"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Description"></SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="IncludeInDebugDump">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Required">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Sensitive">0</SSIS:Property>
+      <SSIS:Property
+        SSIS:Name="Value">m96t4VvhetYuck5</SSIS:Property>
       <SSIS:Property
         SSIS:Name="DataType">18</SSIS:Property>
     </SSIS:Properties>

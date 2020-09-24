@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Shemsiya_Abrar_SSIS_QL</Name>
-    <LastWriteTime>2020-09-21T01:05:40.3689596Z</LastWriteTime>
+    <LastWriteTime>2020-09-24T02:25:20.016964Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,7 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_QuickenLoan.dtsx</Name>
-      <LastWriteTime>2020-09-21T03:31:19.0814906Z</LastWriteTime>
+      <LastWriteTime>2020-09-21T04:37:47.0476868Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
@@ -22,13 +22,13 @@
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>Pkg_Shemsiya_Abrar_SimpleNexus.dtsx</Name>
-      <LastWriteTime>2020-09-21T02:13:15.7208339Z</LastWriteTime>
+      <Name>Pkg_Shemsiya_Abrar_LendingPad.dtsx</Name>
+      <LastWriteTime>2020-09-21T01:05:40.2388036Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
-      <Name>Pkg_Shemsiya_Abrar_LendingPad.dtsx</Name>
-      <LastWriteTime>2020-09-21T01:05:40.2388036Z</LastWriteTime>
+      <Name>Pkg_Shemsiya_Abrar_Simple_Nexus.dtsx</Name>
+      <LastWriteTime>2020-09-24T02:29:44.9484826Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
