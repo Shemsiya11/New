@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Shemsiya_Abrar_Simple_Nexus"
   DTS:PackageType="5"
-  DTS:VersionBuild="421"
-  DTS:VersionGUID="{1D1518D7-070C-4C29-9D92-AFD0C49C902D}">
+  DTS:VersionBuild="423"
+  DTS:VersionGUID="{81CFEC06-AF4E-4914-B86B-FF00228E6433}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -104,7 +104,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACK4XdE6EeJC0rIrYdZa9uBvVHOn8Pl+IXr0qpeGEmVdwAAAAAOgAAAAAIAACAAAACIwyPmJLmWQZH+S11goprcBe/JN9dga5zlHrr+xWu7/SAAAAB/PTrXcmTak3ER9PGD5ygDP8/iW/6CEh0Bobg+pls9JEAAAAC7SF2a1XXa+tllTtR63mzTNkqMR4cV1N2tDXrfUSpu9PmNEkfT0pCTZ88PjEVMESk7yc9dqNGmDIRw659j7nBV</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAvXO7SJfXRwdEQSXanPBNtAXUo6t5McD85DzFaQz7DdgAAAAAOgAAAAAIAACAAAABTPsdlQEaxQVAz6fKfuHX8018YLO+NVQbCioFmpdgzqCAAAAC3PWUh9WhPm8DtxsygDWdagyQH+LdBpMpilXQM2m3BFkAAAAAcA/tNHYz1egvj2iPmqi2kzj8w0cGJqmeQi5DzCJvyLO7bgX1ygSe+jscqHN2Pvx2HXt5Yi8h3hCNaYJKsGCAc</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -118,7 +118,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADG4mNrJk9FTdPaaAEswJkiOGL4qgTXcKTD6Q0lNg/O9AAAAAAOgAAAAAIAACAAAAAbwDB7oHLLvqh8TfRVLSXebVRaY354TZ/FCqo8ZIp2GyAAAADjqipaxx/4aluYhRY03tXO4dgiT0TbhLNp6Cs0fT4iqEAAAACQKBUXi5O8f6WZ8WXvlVmFf+Ibr5HO/oSqPZ3P+E/a6H7bpExL8QVyAOV1/LPB6CFGAqHF+hmfb6H7vhTQyWyI</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACSOF9+Unnm2Dx2oCIUrUGg5KRazJYNk5FUE/+klzv6RQAAAAAOgAAAAAIAACAAAAAQh37s7q0udzXthXuzYEzE85aO0Tg/UCd9ZSdvIWKiBCAAAACWEFoTFHUPJX0Q7e1+FYEnjXMZ0CnyS2U3+c0uk+OuxUAAAADuilnQp4JuKRSpNWC1EREr/1OJbZWW1e6KgeqMSb756I7Nz981OMY+3o4pGs/RqbAr7Jfknw2hkV5fnSULomoW</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -132,7 +132,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABYQmZ+MRdRlTqpHeqqW3hIKRTFkGQmtnY+nTGw1Ab/hQAAAAAOgAAAAAIAACAAAADsXFuhRYGv1jxVvYB7QgY91B2yVFQuaRAPvMgYWzBqmiAAAACAY8ttCIvjfE9KheejT/2j/twYrodMMvS3fwxa8tpDs0AAAACLruYEZ3ujAFgGqzNSlkQtEISB7HHUp90N7bZlzrHlYPCfmeLmKzZrs66mniHd2+LqqvMK/B7u/gSYycHg2g9P</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAIOUmjzRh7D+xMR+NNaOvD0z66hyhfEAH6lf66uL02pQAAAAAOgAAAAAIAACAAAAAnGJ08oOa/pOD6NO4wzLJPNnFwHTkvwenfuxYc3E/OJyAAAACV5gazwXIBBHbepQdNl/nFkAJHZNQgnnxlfEspj+JwI0AAAAA+B0nUvNwvZh3AFjBaRU3/FhRGRr/ahAPEn6mLdBxptFeOkEa95+fBKjroismfpj8zJcGMWKtpIy9X+8NVti/Z</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -155,7 +155,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 9:29:49 PM</DTS:VariableValue>
+        DTS:DataType="7">9/23/2020 10:10:46 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -193,7 +193,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-21-29-48.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-10-45.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -408,7 +408,7 @@ WITH (
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 9:29:49 PM</DTS:VariableValue>
+        DTS:DataType="7">9/23/2020 10:10:46 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -465,7 +465,7 @@ WITH (
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Error_Log"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -664,7 +664,7 @@ WITH (
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\File System Task_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-21-29-48.zip"
+          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-10-45.zip"
           DTS:DTSID="{EB1E7F7B-EE1B-4A30-8B4E-9D6B5856D5A8}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
@@ -1366,7 +1366,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task _the_second"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject
@@ -14356,33 +14356,33 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           PanelSize="599.333333333334,504.666666666667"
           Size="599.333333333334,547.666666666667"
           Id="Package\Sequence Container"
-          TopLeft="1029.06248466577,36.777777777778" />
+          TopLeft="949.687485848553,28.777777777778" />
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint]"
-          TopLeft="1328.72915133244,584.444444444445">
+          TopLeft="1249.35415251522,576.444444444445">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-261.619793723725,68.8055555555549"
+              EndConnector="-182.244794906504,76.8055555555549"
               Start="0,0"
-              End="-261.619793723725,61.3055555555549">
+              End="-182.244794906504,69.3055555555549">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,30.4027777777774" />
+                    End="0,34.4027777777774" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,30.4027777777774"
-                    Point2="0,34.4027777777774"
-                    Point3="-4,34.4027777777774" />
+                    Point1="0,34.4027777777774"
+                    Point2="0,38.4027777777774"
+                    Point3="-4,38.4027777777774" />
                   <mssgle:LineSegment
-                    End="-257.619793723725,34.4027777777774" />
+                    End="-178.244794906504,38.4027777777774" />
                   <mssgle:CubicBezierSegment
-                    Point1="-257.619793723725,34.4027777777774"
-                    Point2="-261.619793723725,34.4027777777774"
-                    Point3="-261.619793723725,38.4027777777774" />
+                    Point1="-178.244794906504,38.4027777777774"
+                    Point2="-182.244794906504,38.4027777777774"
+                    Point3="-182.244794906504,42.4027777777774" />
                   <mssgle:LineSegment
-                    End="-261.619793723725,61.3055555555549" />
+                    End="-182.244794906504,69.3055555555549" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
@@ -14479,26 +14479,26 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="394.785704275326,57.2460317460319"
+              EndConnector="315.410705458106,49.2460317460319"
               Start="0,0"
-              End="387.285704275326,57.2460317460319">
+              End="307.910705458106,49.2460317460319">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="193.392852137663,0" />
+                    End="153.705352729053,0" />
                   <mssgle:CubicBezierSegment
-                    Point1="193.392852137663,0"
-                    Point2="197.392852137663,0"
-                    Point3="197.392852137663,4" />
+                    Point1="153.705352729053,0"
+                    Point2="157.705352729053,0"
+                    Point3="157.705352729053,4" />
                   <mssgle:LineSegment
-                    End="197.392852137663,53.2460317460319" />
+                    End="157.705352729053,45.2460317460319" />
                   <mssgle:CubicBezierSegment
-                    Point1="197.392852137663,53.2460317460319"
-                    Point2="197.392852137663,57.2460317460319"
-                    Point3="201.392852137663,57.2460317460319" />
+                    Point1="157.705352729053,45.2460317460319"
+                    Point2="157.705352729053,49.2460317460319"
+                    Point3="161.705352729053,49.2460317460319" />
                   <mssgle:LineSegment
-                    End="387.285704275326,57.2460317460319" />
+                    End="307.910705458106,49.2460317460319" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>
