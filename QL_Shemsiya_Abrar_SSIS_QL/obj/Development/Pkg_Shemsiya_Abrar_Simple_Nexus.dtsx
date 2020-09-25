@@ -104,7 +104,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAANAkKVVfPpp6vFc27LMLAWKCmr6fJiY+ZRxTiX9p3GhQAAAAAOgAAAAAIAACAAAACma0GIMXmOff/swADzdy+5yoJs2jVrk6E1VMAve0V8XyAAAACin9vg6Xr8CSYrmt3UBcVJM5iyNPkbq7NhovmqL0xy6UAAAABaBitjxsHpCu8Lh1HELQs4xwnHd5Q4MbFfJ4BBMiWB0dSgVTKR6LmYG4/2lyRZsnnv8ZK/sKP923NJWijesN7S</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAACh+Jx0xPCNkPqJJVMxS8fLg6tM4czL54zPIAa7m+RX9wAAAAAOgAAAAAIAACAAAAAbKOSsMbrYrsxuYCs5OLY1EZ5t0HmTICGOFBHw2kPfGCAAAABtewDSCCgHmqokanCwhWnXbOFUfvXRQIwFZTVWvaXAo0AAAAD9hyYP9qMNoVjX4dZDUlYLTgiKUPibNc7Nigd6eXlryFa3CgJ+X3h+q5mqsXP4hf2NkWsYPABp/DXh/L1xQj98</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -118,7 +118,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA1mdQdLDTdnF68DiONHL1cUGCT70lE9j/ub/rQXvQLPwAAAAAOgAAAAAIAACAAAACcVqmsUHiaUgpQ095rVJhNXN6LYO2zJyAXpvNVV1jlFSAAAACrsnd9R0PSKMWImrwZl5YM6hOX5Shlig66mSEPfLEUBUAAAAB4yo8g83wOjmBqB6zG5dJtoQfVfo1rb7Jfbz2niqZMT2BPS/yW/qm9RE65MU3OUkFW4UGD30eflX78cm4myA8t</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABk7TBlR6dFxfQh3Z3TSifN/4hMSnF/EX+QtFmuQPUCTgAAAAAOgAAAAAIAACAAAABi1jSLF3ijrhbIHi+hOM4te8ZVWHKcbOz/EW8lhCokcCAAAADnMaQiiitelYGMUZVLTLaOmMzmHEDS/En/6oeRs5HSjUAAAACDWjoc/uYXwagqbvjx6f5vkuhPjLwHesUzxQsu+uawm393agMgc9LQCsVAT+6UhpGoGIpfcUY+XD2lWe5qz7VG</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -132,7 +132,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAByv1G/tIznKEKBr16murR3iINEJePKAxYXNQkWGPjYSQAAAAAOgAAAAAIAACAAAACdPUtlVawujX5OmAdHMk0tZfJf47i2wd0I6sxntow20yAAAAAQdztiQdL/pte5lz+O25rIVdXS8lW3YrzHEReOLDc95kAAAAB6tJ4XLH/g9rpK1Ch9dtJzLpA6LQ7gGAijCg1CILgTGn8G4CZZYaOk7+tB3qt/eAigtY48eYZPaJYffnMNfqnm</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAADzTdBZKT09or/4nSNVSxMnNFNlQl1stefYRusB/jhiKQAAAAAOgAAAAAIAACAAAACaxIr/mhWIGOZJqR373i7aj1mUXAVW7575f2YfklcWLyAAAADHpIGVTWHubQHPlGuQ4vYPEYm21qHzOMbOh7qx6QVBJ0AAAADSu84Ds6RHfEQadG8Dgdb/ArW7Mbvmm23h7s4bpptRm/tyOVK8jRH5NJdAYVO+H6pUEFPpVdDuVxjaScZAT+TG</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -155,7 +155,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 10:55:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/24/2020 7:22:58 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -193,7 +193,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-55-04.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-24-19-22-58.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -408,7 +408,7 @@ WITH (
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/23/2020 10:55:05 PM</DTS:VariableValue>
+        DTS:DataType="7">9/24/2020 7:22:58 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -465,7 +465,7 @@ WITH (
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Error_Log"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="2">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -664,7 +664,7 @@ WITH (
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\File System Task_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-23-22-55-04.zip"
+          DTS:Description="C:\BulkFile\ArchiveFolder\SimpleNexus_2020-09-24-19-22-58.zip"
           DTS:DTSID="{EB1E7F7B-EE1B-4A30-8B4E-9D6B5856D5A8}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
@@ -1366,7 +1366,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
       DTS:ExecutableType="Microsoft.ScriptTask"
       DTS:LocaleID="-1"
       DTS:ObjectName="Script Task _the_second"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:ObjectData>
         <ScriptProject

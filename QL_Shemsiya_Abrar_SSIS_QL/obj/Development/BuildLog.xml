@@ -2,33 +2,38 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>QL_Shemsiya_Abrar_SSIS_QL</Name>
-    <LastWriteTime>2020-09-24T02:25:20.016964Z</LastWriteTime>
+    <LastWriteTime>2020-09-25T00:22:54.1142179Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_LendingQB.dtsx</Name>
-      <LastWriteTime>2020-09-17T01:40:20.3560401Z</LastWriteTime>
+      <LastWriteTime>2020-09-25T01:47:34.8907816Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_QuickenLoan.dtsx</Name>
-      <LastWriteTime>2020-09-21T04:37:47.0476868Z</LastWriteTime>
+      <LastWriteTime>2020-09-25T00:52:00.0595433Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_SSIS_UberWriter.dtsx</Name>
-      <LastWriteTime>2020-09-17T02:11:35.4440508Z</LastWriteTime>
+      <LastWriteTime>2020-09-25T02:38:17.6773368Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_LendingPad.dtsx</Name>
-      <LastWriteTime>2020-09-21T01:05:40.2388036Z</LastWriteTime>
+      <LastWriteTime>2020-09-25T01:20:04.5926497Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Pkg_Shemsiya_Abrar_Simple_Nexus.dtsx</Name>
-      <LastWriteTime>2020-09-24T03:55:01.1297486Z</LastWriteTime>
+      <LastWriteTime>2020-09-24T04:42:43.0865136Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>Pkg_Shemsiya_Abrar_Master_QuickenLoan.dtsx</Name>
+      <LastWriteTime>2020-09-25T01:47:40.2402113Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
