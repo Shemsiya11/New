@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
   DTS:ObjectName="DESKTOP-MMVBRN0.STGQL"
-  DTS:DTSID="{EB72ECB9-8A26-4AA6-92E0-188CA2C8E72B}"
+  DTS:DTSID="{02E9FD51-13D4-4249-AF5E-1CEFDE9B26B6}"
   DTS:CreationName="OLEDB">
   <DTS:ObjectData>
     <DTS:ConnectionManager

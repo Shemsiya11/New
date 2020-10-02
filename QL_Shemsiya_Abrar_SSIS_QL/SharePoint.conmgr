@@ -1,19 +1,21 @@
 ﻿<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:DelayValidation="True"
   DTS:ObjectName="OData Source 1"
   DTS:DTSID="{30605116-64B5-42AA-A50F-FA9A45C86789}"
   DTS:CreationName="ODATA">
   <DTS:PropertyExpression
-    DTS:Name="ConnectionString">@[$Project::ODataSource1_ConnectionString1]</DTS:PropertyExpression>
+    DTS:Name="ConnectionString">@[$Project::ODataSource1_ConnectionString]</DTS:PropertyExpression>
   <DTS:ObjectData>
     <ODataConnectionManager
       UserName="sharepoint@dunatk.com"
       Url="https://dunatkcom.sharepoint.com/sites/LendingQB/_vti_bin/listdata.svc"
       ConnectionString="Service Document Url=https://dunatkcom.sharepoint.com/sites/LendingQB/_vti_bin/listdata.svc;Include Atom Elements=Auto;Include Expanded Entities=False;Integrated Security=False;User ID=sharepoint@dunatk.com;Persist Security Info=False;Time Out=600;Schema Sample Size=25;Retry Count=5;Retry Sleep=100;Keep Alive=False;Max Received Message Size=4398046511104"
       MicrosoftOnlineServicesAuth="True"
-      AuthType="MicrosoftOnlineService">
+      AuthType="MicrosoftOnlineService"
+      ConnectByProxy="False">
       <Password
-        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAACX1sqtQY7GDdOpizg0eIYmxmBRaqYyruWjsgHWjPYpxQAAAAAOgAAAAAIAACAAAACk5s7mjAx5l906Zk8Al4xAKWVO5C+Gy/aSVWITUgS4hkAAAADdy97tiUyJweeLGfNYikoozpRESM9LifPRUN024rfH0KQgFGzU4hzIVToB4ZJY5h37V9XhQCs8va4u1UqW7y2RQAAAAFxHkoZPuo0mFn6AifoW6qZR3QuCD5S0ZpNxn+gM/heMI/1rlNArOhAzmNmh+PcO7arZlZYSHUNTwgVDu7I+fjo=</Password>
+        Sensitive="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAACAAAAAAAQZgAAAAEAACAAAAAXu7fbyn9wSTpSvjGE1CMvZPkDG3GliHINFZUKd0qWyQAAAAAOgAAAAAIAACAAAACdwaL0+ghxJzRBbkYLRIIjZQet+v8ref6ybRdDgB6tjEAAAAC6urj3ENyyE0kUcSgSt/+LbBk579FB28PHkZ0htq/EqOv076AXfXu8fOZA060IZN1qTHW+PXtFNMUip4INZUv9QAAAAGYiy50wLW6N0BYcajaKWoUNWqE2YKRJZGOIALpEI/wONKQ5iA6jhqthoK7S5o8zjOC17NJM5WGcLcWhJ4hZP0c=</Password>
     </ODataConnectionManager>
   </DTS:ObjectData>
 </DTS:ConnectionManager>

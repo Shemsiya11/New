@@ -1,5 +1,6 @@
 <?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:DelayValidation="True"
   DTS:ObjectName="DESKTOP-MMVBRN0.SimpleNexus"
   DTS:DTSID="{6F66D156-171D-4C97-A06E-01B92D313EA4}"
   DTS:CreationName="OLEDB">

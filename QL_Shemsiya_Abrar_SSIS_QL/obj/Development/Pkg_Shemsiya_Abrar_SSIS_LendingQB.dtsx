@@ -7,12 +7,12 @@
   DTS:CreatorName="DESKTOP-MMVBRN0\shemsiya"
   DTS:DTSID="{BE21B4B9-6571-4A87-B00A-7BA518A4D28D}"
   DTS:ExecutableType="Microsoft.Package"
-  DTS:LastModifiedProductVersion="15.0.2000.123"
+  DTS:LastModifiedProductVersion="15.0.2000.132"
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Shemsiya_Abrar_SSIS_LendingQB"
   DTS:PackageType="5"
-  DTS:VersionBuild="164"
-  DTS:VersionGUID="{07D39C88-E2DA-48DC-A2AC-711533138FB6}">
+  DTS:VersionBuild="171"
+  DTS:VersionGUID="{2EF8119B-56C4-4BF3-88AD-DA985542B5EC}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -107,7 +107,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:19:41 PM</DTS:VariableValue>
+        DTS:DataType="7">9/29/2020 8:45:50 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -191,7 +191,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">9/24/2020 9:19:41 PM</DTS:VariableValue>
+        DTS:DataType="7">9/29/2020 8:45:50 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -31256,7 +31256,6 @@ where [refTable].[MarketSourceCode] = ?</property>
       DTS:refId="Package\Execute SQL Task_EST_MaxModofiedDate"
       DTS:CreationName="Microsoft.ExecuteSQLTask"
       DTS:Description="Execute SQL Task"
-      DTS:Disabled="True"
       DTS:DTSID="{D3AD682E-3094-4108-8F99-50742F8CE530}"
       DTS:ExecutableType="Microsoft.ExecuteSQLTask"
       DTS:LocaleID="-1"
@@ -31267,12 +31266,19 @@ where [refTable].[MarketSourceCode] = ?</property>
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{EB72ECB9-8A26-4AA6-92E0-188CA2C8E72B}"
-          SQLTask:SqlStatementSource="SELECT MAX(LastModifiedDate) AS MaxLastModifiedDate FROM [dbo].[Shemsiya_Abrar_QL]    &#x9;&#x9;&#x9;&#x9;&#x9;&#x9;&#xA;&#x9;&#x9;&#x9;" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          SQLTask:SqlStatementSource="IF EXISTS&#xA;(&#xA;SELECT&#xA;   MAX(LastModifiedDate) AS MaxLastModifiedDate&#xA;  FROM    &#x9;[dbo].[Shemsiya_Abrar_QL]&#x9;where sourcename= 'sharepoint'&#x9;&#x9;&#x9;&#x9;&#xA;&#x9;&#x9;&#x9;   )&#xA;&#x9;&#x9;&#x9;BEGIN&#xA;&#x9;&#x9;SELECT&#xA;   MAX(LastModifiedDate) AS MaxLastModifiedDate&#xA;  FROM [dbo].[Shemsiya_Abrar_QL] where sourcename= 'sharepoint'&#x9;&#x9;&#xA;&#x9;&#x9;END&#xA;&#x9;&#x9;ELSE&#xA;&#x9;&#x9;BEGIN&#xA;&#x9;&#x9;SELECT  DATEADD(YYYY,-120,GETDATE()) AS MaxLastModifiedDate&#xA;&#x9;&#x9;END"
+          SQLTask:ResultType="ResultSetType_SingleRow" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask">
+          <SQLTask:ResultBinding
+            SQLTask:ResultName=" MaxLastModifiedDate"
+            SQLTask:DtsVariableName="User::VarLastModifiedDate" />
+          <SQLTask:ResultBinding
+            SQLTask:ResultName="SourceName"
+            SQLTask:DtsVariableName="User::VarSourceName" />
           <SQLTask:ParameterBinding
-            SQLTask:ParameterName="NewParameterName"
+            SQLTask:ParameterName="0"
             SQLTask:DtsVariableName="User::VarSourceName"
             SQLTask:ParameterDirection="Input"
-            SQLTask:DataType="3"
+            SQLTask:DataType="129"
             SQLTask:ParameterSize="-1" />
         </SQLTask:SqlTaskData>
       </DTS:ObjectData>
@@ -32216,7 +32222,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         <NodeLayout
           Size="277.333333333334,42"
           Id="Package\Execute SQL Task_EST_MaxModofiedDate"
-          TopLeft="89.3749986682082,42.666666666667" />
+          TopLeft="89.8194431126527,42.1981981800864" />
         <NodeLayout
           Size="209.333333333334,42"
           Id="Package\Execute SQL Task_ETL_Log"
@@ -32279,30 +32285,30 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA</BinaryItem>
         </EdgeLayout>
         <EdgeLayout
           Id="Package.PrecedenceConstraints[Constraint 2]"
-          TopLeft="228.041665334875,84.666666666667">
+          TopLeft="228.486109779319,84.1981981800864">
           <EdgeLayout.Curve>
             <mssgle:Curve
               StartConnector="{assembly:Null}"
-              EndConnector="-68.3333326627799,27.9999999999996"
+              EndConnector="-68.7777771072244,28.4684684865806"
               Start="0,0"
-              End="-68.3333326627799,20.4999999999996">
+              End="-68.7777771072244,20.9684684865806">
               <mssgle:Curve.Segments>
                 <mssgle:SegmentCollection
                   Capacity="5">
                   <mssgle:LineSegment
-                    End="0,9.99999999999982" />
+                    End="0,10.2342342432903" />
                   <mssgle:CubicBezierSegment
-                    Point1="0,9.99999999999982"
-                    Point2="0,13.9999999999998"
-                    Point3="-4,13.9999999999998" />
+                    Point1="0,10.2342342432903"
+                    Point2="0,14.2342342432903"
+                    Point3="-4,14.2342342432903" />
                   <mssgle:LineSegment
-                    End="-64.3333326627799,13.9999999999998" />
+                    End="-64.7777771072244,14.2342342432903" />
                   <mssgle:CubicBezierSegment
-                    Point1="-64.3333326627799,13.9999999999998"
-                    Point2="-68.3333326627799,13.9999999999998"
-                    Point3="-68.3333326627799,17.9999999999998" />
+                    Point1="-64.7777771072244,14.2342342432903"
+                    Point2="-68.7777771072244,14.2342342432903"
+                    Point3="-68.7777771072244,18.2342342432903" />
                   <mssgle:LineSegment
-                    End="-68.3333326627799,20.4999999999996" />
+                    End="-68.7777771072244,20.9684684865806" />
                 </mssgle:SegmentCollection>
               </mssgle:Curve.Segments>
             </mssgle:Curve>

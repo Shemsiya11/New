@@ -1,10 +1,8 @@
 ﻿<?xml version="1.0"?>
 <DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
-  DTS:ObjectName="DESKTOP-MMVBRN0.STGQL 1"
-  DTS:DTSID="{171CD0CA-10F7-4BF9-8F01-03B40568D419}"
+  DTS:ObjectName="DESKTOP-MMVBRN0.STGQL"
+  DTS:DTSID="{02E9FD51-13D4-4249-AF5E-1CEFDE9B26B6}"
   DTS:CreationName="OLEDB">
-  <DTS:PropertyExpression
-    DTS:Name="ConnectionString">@[$Project::DESKTOPMMVBRN0STGQL1_ConnectionString]</DTS:PropertyExpression>
   <DTS:ObjectData>
     <DTS:ConnectionManager
       DTS:ConnectionString="Data Source=DESKTOP-MMVBRN0;Initial Catalog=STGQL;Provider=SQLNCLI11.1;Integrated Security=SSPI;Auto Translate=False;" />
