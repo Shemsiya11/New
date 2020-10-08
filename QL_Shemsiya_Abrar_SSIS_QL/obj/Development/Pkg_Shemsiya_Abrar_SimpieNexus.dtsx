@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Pkg_Shemsiya_Abrar_SimpieNexus1"
   DTS:PackageType="5"
-  DTS:VersionBuild="423"
-  DTS:VersionGUID="{A61F2907-20E7-4BB6-B5DD-3374B981710E}">
+  DTS:VersionBuild="426"
+  DTS:VersionGUID="{6C6077D0-BEA8-4274-BE7E-499184142EEE}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -97,7 +97,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD3qKPL0jZ1F/4rl5kwr0NfGBpozy/nxLF9SOL/j7gt+QAAAAAOgAAAAAIAACAAAACqA8iHgkzSawEwaBihuqoLkSJExXyBu4NcNqy/tgkjNyAAAADUXPHzR/qJiUa80WEmz/+2uGnlURtnrjW14F+jwMq3w0AAAACi7dYeYjal6EZPhdv2e61QzLhjFhXs9IwrwQUydt22g5PBbkcSfyhqdTjTs0p3QPlGCkBynG6iFxunH+BBNozv</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAABBN2X8wVYpxKaE1dvHxrw5RaRzzXUsGCaJn8kZ81nliwAAAAAOgAAAAAIAACAAAACUch70hJ9CjkFULMqleJWNAIWSTdK7vVsty5tc99/POCAAAACjy/iCOmiKTT8C0KhzM9AoObf6BtaatNZiXViNhLg6kkAAAAASHSDZ3FiTi8DDOC2XUyPRDZazcRwMNrXJeR3EUSQyMWcyFFdbyDH4GFOMBOg2Vv29jCNuiD3AFRhs54Fvjnu5</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
     <DTS:PackageParameter
@@ -111,7 +111,7 @@
         <DTS:Property
           DTS:DataType="8"
           DTS:Name="ParameterValue"
-          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAD0F5YabZZeUeyVBxffhaMHLt4XjB5xm0PfSXVxtin0oQAAAAAOgAAAAAIAACAAAABTltttsPSwCpnY2CFzUh2QTWtfUk3Nqzxx79AirzO1sCAAAADMJWaCjJXdwBYq2qlyaOTi3LvwfCx9vedw0jJxrAVYa0AAAADgFON8jcFLFeiZ4VjSb9w5A+SGkkN7UBFZB8HyHL2h4zDQsh/tEe8c54TdIJS43+FN1Toqev0TLCAtL7nmbAki</DTS:Property>
+          Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAVHFF/6SS60+xlimQas8F1wAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAAaQHVh50QXa4UqKArhSMXHo80CzDoBwCsAFztNuKxrLgAAAAAOgAAAAAIAACAAAACATtmL4hzp/jn02tfBb8w7flA4z7TNidv3iHIVzEHgLiAAAAAE+vbplOQPO7Uz6v4K7JNJoG8UMcS/Z2ykhD5GGWFKb0AAAADG/Jrd9RV3dvKkdBrwIIR2W3F/R2NvU1SiCENOH2b/2+h38mbdVWxEM/Ryejzu84ogXh14tt+QlxLVqsbCZUlO</DTS:Property>
       </DTS:Property>
     </DTS:PackageParameter>
   </DTS:PackageParameters>
@@ -134,7 +134,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarBody">
       <DTS:VariableValue
-        DTS:DataType="7">10/2/2020 6:29:49 PM</DTS:VariableValue>
+        DTS:DataType="7">10/6/2020 5:59:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -172,7 +172,7 @@
       DTS:Namespace="User"
       DTS:ObjectName="VarFullArchiveFolder">
       <DTS:VariableValue
-        DTS:DataType="8">C:\BulkFile\ArchiveFolder\LendingPad_2020-10-02-18-29-49.zip</DTS:VariableValue>
+        DTS:DataType="8">C:\BulkFile\ArchiveFolder\LendingPad_2020-10-06-17-59-22.zip</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -387,7 +387,7 @@ WITH (
       DTS:Namespace="User"
       DTS:ObjectName="VarTimeStamp">
       <DTS:VariableValue
-        DTS:DataType="7">10/2/2020 6:29:49 PM</DTS:VariableValue>
+        DTS:DataType="7">10/6/2020 5:59:23 PM</DTS:VariableValue>
     </DTS:Variable>
     <DTS:Variable
       DTS:CreationName=""
@@ -444,7 +444,7 @@ WITH (
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_Error_Log"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="4">
+      DTS:ThreadHint="1">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -502,7 +502,7 @@ WITH (
       DTS:LocaleID="-1"
       DTS:ObjectName="Execute SQL Task_ETL_Log"
       DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-      DTS:ThreadHint="1">
+      DTS:ThreadHint="2">
       <DTS:Variables />
       <DTS:EventHandlers>
         <DTS:EventHandler
@@ -631,7 +631,7 @@ WITH (
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute Process Task unzip_File"
           DTS:TaskContact="Execute Process Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:PropertyExpression
             DTS:Name="Arguments">"x "+@[User::VarLocalFolder]+ @[User::VarFileName] + " -o"+ @[User::VarUnzipFile]</DTS:PropertyExpression>
@@ -644,13 +644,13 @@ WITH (
         <DTS:Executable
           DTS:refId="Package\Foreach Loop Container\File System Task_Move_Rename"
           DTS:CreationName="Microsoft.FileSystemTask"
-          DTS:Description="C:\BulkFile\ArchiveFolder\LendingPad_2020-10-02-18-29-49.zip"
+          DTS:Description="C:\BulkFile\ArchiveFolder\LendingPad_2020-10-06-17-59-22.zip"
           DTS:DTSID="{2152A498-173D-44B4-9840-DE7FC6D9F381}"
           DTS:ExecutableType="Microsoft.FileSystemTask"
           DTS:LocaleID="-1"
           DTS:ObjectName="File System Task_Move_Rename"
           DTS:TaskContact="File System Task;Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="3">
+          DTS:ThreadHint="4">
           <DTS:Variables />
           <DTS:PropertyExpression
             DTS:Name="Description">@[User::VarArchiveFile] +"\\"+REPLACE( @[User::VarFileName],".zip","_")+REPLACE(SUBSTRING(REPLACE((DT_WSTR,50)GETDATE()," ","-"),1,19),":","-")+".zip"</DTS:PropertyExpression>
@@ -1359,14 +1359,35 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</BinaryItem>
           Language="CSharp"
           ReadOnlyVariables="System::PackageName,User::VarFileName,User::VarFromEmail,User::VarLocalFolder,User::VarPassword,User::VarRemotePath,User::VarSmtpClinet,User::VarSmtpServerPort,User::VarSubject,User::VarTimeStamp,User::VarToEmail">
           <ProjectItem
-            Name="Properties\Settings.settings"
-            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
-<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
-  <Profiles>
-    <Profile Name="(Default)" />
-  </Profiles>
-  <Settings />
-</SettingsFile>]]></ProjectItem>
+            Name="Properties\AssemblyInfo.cs"
+            Encoding="UTF8"><![CDATA[using System.Reflection;
+using System.Runtime.CompilerServices;
+
+//
+// General Information about an assembly is controlled through the following 
+// set of attributes. Change these attribute values to modify the information
+// associated with an assembly.
+//
+[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyDescription("")]
+[assembly: AssemblyConfiguration("")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
+[assembly: AssemblyCopyright("Copyright @  2020")]
+[assembly: AssemblyTrademark("")]
+[assembly: AssemblyCulture("")]
+//
+// Version information for an assembly consists of the following four values:
+//
+//      Major Version
+//      Minor Version 
+//      Build Number
+//      Revision
+//
+// You can specify all the values or you can default the Revision and Build Numbers 
+// by using the '*' as shown below:
+
+[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.resx"
             Encoding="UTF8"><![CDATA[<?xml version="1.0" encoding="utf-8"?>
@@ -1770,35 +1791,14 @@ namespace ST_584c22aed5454022ae0d317db31705c4.Properties {
     }
 }]]></ProjectItem>
           <ProjectItem
-            Name="Properties\AssemblyInfo.cs"
-            Encoding="UTF8"><![CDATA[using System.Reflection;
-using System.Runtime.CompilerServices;
-
-//
-// General Information about an assembly is controlled through the following 
-// set of attributes. Change these attribute values to modify the information
-// associated with an assembly.
-//
-[assembly: AssemblyTitle("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyDescription("")]
-[assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("ST_584c22aed5454022ae0d317db31705c4")]
-[assembly: AssemblyCopyright("Copyright @  2020")]
-[assembly: AssemblyTrademark("")]
-[assembly: AssemblyCulture("")]
-//
-// Version information for an assembly consists of the following four values:
-//
-//      Major Version
-//      Minor Version 
-//      Build Number
-//      Revision
-//
-// You can specify all the values or you can default the Revision and Build Numbers 
-// by using the '*' as shown below:
-
-[assembly: AssemblyVersion("1.0.*")]]]></ProjectItem>
+            Name="Properties\Settings.settings"
+            Encoding="UTF8"><![CDATA[<?xml version='1.0' encoding='iso-8859-1'?>
+<SettingsFile xmlns="uri:settings" CurrentProfile="(Default)">
+  <Profiles>
+    <Profile Name="(Default)" />
+  </Profiles>
+  <Settings />
+</SettingsFile>]]></ProjectItem>
           <ProjectItem
             Name="Properties\Resources.Designer.cs"
             Encoding="UTF8"><![CDATA[//------------------------------------------------------------------------------
@@ -13247,7 +13247,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task_Delete_SimpleNexus"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData
@@ -13264,7 +13264,7 @@ where [refTable].[MarketSourceCode] = ?</property>
           DTS:LocaleID="-1"
           DTS:ObjectName="Execute SQL Task_MaxModofiedDate"
           DTS:TaskContact="Execute SQL Task; Microsoft Corporation; SQL Server 2019; © 2019 Microsoft Corporation; All Rights Reserved;http://www.microsoft.com/sql/support/default.asp;1"
-          DTS:ThreadHint="1">
+          DTS:ThreadHint="3">
           <DTS:Variables />
           <DTS:ObjectData>
             <SQLTask:SqlTaskData

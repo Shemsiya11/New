@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30413.136
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Shemsiya_Abrar_SSIS_QL", "QL_Shemsiya_Abrar_SSIS_QL.dtproj", "{D14BC326-6E97-4A1C-9758-3F152330799F}"
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "QL_Shemsiya_Abrar_SSIS_Package", "QL_Shemsiya_Abrar_SSIS_Package.dtproj", "{D14BC326-6E97-4A1C-9758-3F152330799F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

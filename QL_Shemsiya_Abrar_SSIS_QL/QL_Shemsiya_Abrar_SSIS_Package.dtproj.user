@@ -8,8 +8,8 @@
         <UseWinAuth>false</UseWinAuth>
         <WinAuthUserName />
         <WinAuthDomain />
-        <ServerName />
-        <PathOnServer />
+        <ServerName>DESKTOP-MMVBRN0</ServerName>
+        <PathOnServer>/SSISDB/QL_Shemsiya_Abrar_ETL/QL_Shemsiya_Abrar_SSIS_Package</PathOnServer>
         <UserIDs />
         <UserPasswords />
         <OfflineMode>false</OfflineMode>
